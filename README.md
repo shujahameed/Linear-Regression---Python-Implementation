@@ -5,3 +5,5 @@ This repo contains the implementation of Linear Regression algorithm in Python
 2. optimizer.ipynb is a Python 3 notebook containing the code for optimization functions and learning rates
 3.  data.txt contains dataset for linear regression in one variable
 
+Kindly update the path to the data.csv file in the python notebooks as per your system before executing the code.
+
